@@ -1,0 +1,3 @@
+﻿  main.cpp
+F:\workspace\C+\FCFS\main.cpp(45,20): warning C4018: “<”: 有符号/无符号不匹配
+  FCFS.vcxproj -> F:\workspace\C+\FCFS\Debug\FCFS.exe
